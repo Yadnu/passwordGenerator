@@ -143,7 +143,6 @@ copyBtn.addEventListener('click', () => {
     if(passwordDisplay.value)
         copyContent();
 })
-
 generateBtn.addEventListener('click', () => {
     //none of the checkbox are selected
 
